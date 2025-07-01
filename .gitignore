@@ -1,0 +1,6 @@
+# Ignore specific files/folders inside learnova-backend
+learnova-backend/node_modules/
+learnova-backend/.env
+learnova-backend/logs/
+learnova-backend/__pycache__/
+learnova-backend/*.log
